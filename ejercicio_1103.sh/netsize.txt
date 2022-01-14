@@ -1,0 +1,2 @@
+el numero de filas de n1.txt: 97
+el numero de columnas de n1.txt: 80
